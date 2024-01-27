@@ -1,0 +1,14 @@
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\bin\Debug\net8.0\Задачи по условиям 1.exe
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\bin\Debug\net8.0\Задачи по условиям 1.deps.json
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\bin\Debug\net8.0\Задачи по условиям 1.runtimeconfig.json
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\bin\Debug\net8.0\Задачи по условиям 1.dll
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\bin\Debug\net8.0\Задачи по условиям 1.pdb
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\Задачи по условиям 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\Задачи по условиям 1.AssemblyInfoInputs.cache
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\Задачи по условиям 1.AssemblyInfo.cs
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\Задачи по условиям 1.csproj.CoreCompileInputs.cache
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\Задачи по условиям 1.dll
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\refint\Задачи по условиям 1.dll
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\Задачи по условиям 1.pdb
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\Задачи по условиям 1.genruntimeconfig.cache
+C:\Users\Andzen\source\repos\Задачи по условиям 1\Задачи по условиям 1\obj\Debug\net8.0\ref\Задачи по условиям 1.dll
